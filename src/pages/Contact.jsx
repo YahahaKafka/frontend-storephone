@@ -50,7 +50,7 @@ const Contact = () => {
      "service_nmvq8sk",
       "template_mve6zpd",
       e.target,
-      "TlYZSiQy3j5IvRghM"
+      "7uhfJmqkBiB4uqZ5z"
     ).then(
       (result) => {
         alert("Pesan berhasil dikirim!");
