@@ -80,7 +80,7 @@ const Product = () => {
             </div>
           ))}
         </div>
-        <h1 className="font-bold mt-15 text-2xl text-center">Happy Shooping</h1>
+        <h1 className="font-bold mt-15 text-2xl text-center">Happy Shopping</h1>
       </div>
     </>
   );
